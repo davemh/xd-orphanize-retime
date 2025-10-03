@@ -10,6 +10,9 @@ Step 1. **xd-orphanize-layers** For every 60fps comp, the script searches for sh
 Step 2. **xd-comp-retimer** For every 60fps comp, the script changes the framerate to 24fps.
 
 # Installation & Usage
+
 Install via File > Scripts > Install Script File...
-Run via File > Scripts > xd-orphanize-layers_[version]
+
+Run via File > Scripts > xd-orhanize-retime-_[version]
+
 Run without installation via File > Scripts > Run Script...
