@@ -2,6 +2,7 @@
 Single script that runs **xd-orphanize-layers**, followed by **xd-comp-retimer** (each in its own undoGroup). I run this as the first step in my day-to-day work of having to make sense of AE comps built by Adobe XD's "Export to After Effects..." feature.
 
 [xd-orphanize-layers](https://github.com/davemh/xd-orphanize-layers): Headless AE script that batch-deletes unnecessary shape layers set up as parents, in all 60fps comps in a project.
+
 [xd-comp-retimer](https://github.com/davemh/xd-comp-retimer): Headless AE script that batch-converts all 60fps comps in an AE project to 24fps.
 
 # Method
