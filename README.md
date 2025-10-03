@@ -7,6 +7,7 @@ Single script that runs **xd-orphanize-layers**, followed by **xd-comp-retimer**
 
 # Method
 Step 1. **xd-orphanize-layers** For every 60fps comp, the script searches for shape layers whose names start with "Artwork" or "Group", and deletes those layers.
+
 Step 2. **xd-comp-retimer** For every 60fps comp, the script changes the framerate to 24fps.
 
 # Installation & Usage
