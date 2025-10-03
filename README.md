@@ -12,8 +12,8 @@ Step 2. **xd-comp-retimer** For every 60fps comp, the script changes the framera
 
 # Installation & Usage
 
-Install via File > Scripts > Install Script File...
+Install via _File > Scripts > Install Script File..._
 
-Run via File > Scripts > xd-orhanize-retime-_[version]
+Run via _File > Scripts > xd-orphanize-retime_[version]_
 
-Run without installation via File > Scripts > Run Script...
+Run without installation via _File > Scripts > Run Script..._
